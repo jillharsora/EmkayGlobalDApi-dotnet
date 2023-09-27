@@ -1,4 +1,4 @@
-# NorenApi-dotnet
+# EmkayGlobalDApi-dotnet
 
 [INTRODUCTION](#md_introduction)
 
